@@ -1,0 +1,20 @@
+create table		创建表格	
+select * from 		查询	
+describe				描述
+insert into			插入
+values					值
+delete					删除
+where					在...哪里
+update			    更新
+set						设置
+as 						像...一样
+
+distinct               去重	
+max						最大值
+min						最小值
+sum						求和
+avg						求平均值
+count					计数
+and						与	
+or							或
+not						非
